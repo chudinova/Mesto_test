@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.test;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Step;
@@ -8,7 +8,6 @@ import org.junit.Before;
 import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.Matchers.equalTo;
 
 public class Mesto1Test {
 
