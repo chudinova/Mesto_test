@@ -1,4 +1,4 @@
-package src.main.test;
+package src.test.java;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Step;
